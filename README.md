@@ -13,7 +13,7 @@ Ejecutar: `java -jar bin/biblioteca.jar`
 El programa crea una biblioteca, agrega cuatro libros y los muestra en consola.
 
 ## Créditos
-Desarrollado por TU NOMBRE, matrícula TU_MATRÍCULA, Tecmilenio.
+Desarrollado por Emiliano Hernandez Aguilar, matrícula AL03087548, Tecmilenio.
 
 ## Licencia
 MIT License.
