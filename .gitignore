@@ -1,0 +1,17 @@
+# Archivos compilados
+*.class
+
+# Archivos temporales de vim
+*.swp
+
+# IDE (deja solo el que uses, o todos)
+.idea/
+*.iml
+.vscode/
+nbproject/
+.classpath
+.project
+.settings/
+
+# Carpeta temporal de compilación
+out/
