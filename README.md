@@ -4,7 +4,6 @@ Aplicación en Java que gestiona una colección de libros mediante un arreglo.
 
 ## Instalación
 1. Instalar JDK 17 o superior.
-2. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/Biblioteca.git`
 3. Compilar: `javac -d out src/*.java`
 4. Generar el JAR: `jar cfe bin/biblioteca.jar Main -C out .`
 
